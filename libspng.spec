@@ -30,6 +30,8 @@ developing applications that use %{name}.
 %autosetup -p1
 
 %build
+export CC=gcc
+export CXX=g++
 %meson -Ddev_build=true
 %meson_build
 
