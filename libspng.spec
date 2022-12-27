@@ -1,5 +1,5 @@
-%define libname %mklibname shumate
-%define devname %mklibname -d shumate
+%define libname %mklibname spng
+%define devname %mklibname -d spng
 
 Name:           libspng
 Version:        0.7.3
