@@ -3,7 +3,7 @@
 
 Name:           libspng
 Version:        0.7.3
-Release:        1
+Release:        2
 Summary:        Simple, modern libpng alternative
 Group:          System/Libraries
 License:        BSD
