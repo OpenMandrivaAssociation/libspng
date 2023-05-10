@@ -2,8 +2,8 @@
 %define devname %mklibname -d spng
 
 Name:           libspng
-Version:        0.7.3
-Release:        2
+Version:        0.7.4
+Release:        1
 Summary:        Simple, modern libpng alternative
 Group:          System/Libraries
 License:        BSD
